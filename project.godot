@@ -8,7 +8,7 @@ config_version=5
 
 config/name="GTA2 Godot Clone"
 config/version="0.1.0"
-run/main_scene="res://scenes/main.tscn"
+run/main_scene=""
 config/features=PackedStringArray("4.6", "Forward Plus")
 config/icon="res://icon.svg"
 
